@@ -1,1 +1,1 @@
-This edit is done by github editr!
+This edit is done by github editor!
